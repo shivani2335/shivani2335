@@ -1,4 +1,4 @@
-MESAAGE ENCODING AND DECODING USING PYTHON
+MESSAGE ENCODING AND DECODING USING PYTHON
 
 <!--
 **shivani2335/shivani2335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
